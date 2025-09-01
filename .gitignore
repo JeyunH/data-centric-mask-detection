@@ -1,0 +1,11 @@
+#IDE
+.ipynb_checkpoints/
+
+# dataset
+labels/
+mask_images/
+mask_yolo_dataset/
+masked_man/
+
+# import model
+Pytorch_Retinaface/
